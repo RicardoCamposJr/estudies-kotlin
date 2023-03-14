@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c1326b-7c0b-4f7f-87fb-44e582831eb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos-kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/github/RicardoCamposJr/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/classes/Animal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/classes/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/classes/Dog.kt" afterDir="false" />
+    <list default="true" id="97c1326b-7c0b-4f7f-87fb-44e582831eb6" name="Changes" comment="Estudos sobre POO na linguagem Kotlin">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/poo/classes/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/classes/Dog.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,5 +61,9 @@
       <updated>1678320391671</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estudos sobre POO na linguagem Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudos sobre POO na linguagem Kotlin" />
   </component>
 </project>
