@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c1326b-7c0b-4f7f-87fb-44e582831eb6" name="Changes" comment="Estudos sobre POO na linguagem Kotlin">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/poo/classes/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/classes/Dog.kt" afterDir="false" />
+    <list default="true" id="97c1326b-7c0b-4f7f-87fb-44e582831eb6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Nanas/Documents/FACULDADE/3 Semestre/JAVA/gestao-academica",
+    "last_opened_file_path": "C:/Users/Nanas/Documents/FACULDADE/3 Semestre/MI - Programacao/PBL_SYSTEM",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
