@@ -1,2 +1,2 @@
-# estudos-kotlin
-Estudos sobre POO na linguagem Kotlin.
+# estudies-kotlin
+Estudies about OOP using Kotlin language.
